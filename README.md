@@ -11,8 +11,8 @@ Here is my LinkedIn profile: https://www.linkedin.com/in/patrick-da-silva-871833
 
 --------------------------------------------------------------------------------------------------
 Resources I used for this project:
-https://www.datacamp.com/tutorial
-https://pandas.pydata.org/docs/
+https://www.datacamp.com/tutorial <br>
+https://pandas.pydata.org/docs/ <br>
 https://stackoverflow.com/
 https://www.w3schools.com/python/
 https://www.geeksforgeeks.org/
