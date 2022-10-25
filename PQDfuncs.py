@@ -1,6 +1,6 @@
 # These are the functions that I will use to perform the House Price Regression
 # Written by Patrick Da Silva
-os.link(https://www.linkedin.com/in/patrick-da-silva-871833225/)
+# https://www.linkedin.com/in/patrick-da-silva-871833225/
 
 import pandas as pd
 from pandas.api.types import CategoricalDtype
