@@ -9,6 +9,11 @@ The aim of this project was to implement robust Machine Learning principles and 
 Here is my LinkedIn profile: https://www.linkedin.com/in/patrick-da-silva-871833225/
 
 
+
+
+
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Resources I used for this project: <br>
 https://www.datacamp.com/tutorial <br>
