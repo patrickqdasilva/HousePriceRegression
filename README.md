@@ -7,3 +7,15 @@ This project is comprised of two files for simplicity.
 The aim of this project was to implement robust Machine Learning principles and techniques to further my understanding of the subject.
 
 Here is my LinkedIn profile: https://www.linkedin.com/in/patrick-da-silva-871833225/
+
+
+--------------------------------------------------------------------------------------------------
+Resources I used for this project:
+https://www.datacamp.com/tutorial
+https://pandas.pydata.org/docs/
+https://stackoverflow.com/
+https://www.w3schools.com/python/
+https://www.geeksforgeeks.org/
+https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f
+https://www.kaggle.com/code/ryanholbrook/feature-engineering-for-house-prices/notebook#Introduction
+https://machinelearningmastery.com/avoid-overfitting-by-early-stopping-with-xgboost-in-python/
